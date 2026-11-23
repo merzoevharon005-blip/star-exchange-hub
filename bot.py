@@ -13,7 +13,7 @@ from aiogram.types import (
 
 # ====== НАСТРОЙКИ ======
 BOT_TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
-ADMIN_ID = 123456789  # ваш Telegram ID (узнать: @userinfobot)
+ADMIN_ID = 6940877915  # ваш Telegram ID (узнать: @userinfobot)
 
 CARD_NUMBER = "0000 0000 0000 0000"  # номер вашей карты
 CARD_OWNER = "Иван И."               # имя на карте / банк
